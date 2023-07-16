@@ -1,0 +1,11 @@
+.imageSVG {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-top: 50px;
+}
+  
+.imageSVG img {
+  height: 80px;
+}
